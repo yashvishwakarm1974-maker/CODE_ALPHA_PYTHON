@@ -37,27 +37,6 @@ Hangman-Game/
 
 ---
 
-## 🚀 Getting Started
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/your-username/Hangman-Game.git
-```
-
-### 2. Navigate to the Project Folder
-
-```bash
-cd Hangman-Game
-```
-
-### 3. Run the Program
-
-```bash
-python hangman.py
-```
-
----
 
 ## 🎮 How to Play
 
@@ -142,19 +121,10 @@ Contributions are welcome!
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
 
 ## 👨‍💻 Author
 
 **Yash Vishwakarma**
 
-- GitHub: https://github.com/your-username
-- LinkedIn: https://linkedin.com/in/your-linkedin
-
----
-
-⭐ If you found this project helpful, don't forget to **Star** the repository!
+- 🎓 Python Programming Intern at CodeAlpha
+- 🆔 CodeAlpha Internship ID: **CA/DF1/203287**
